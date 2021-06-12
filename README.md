@@ -1,1 +1,1 @@
-URL:  https://muqeetchaudhary.github.io/profile/
+url: https://muqeetchaudhary.github.io/profile/
