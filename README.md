@@ -1,1 +1,1 @@
-# Abdul-s-Profile
+url: https://muqeetchaudhary.github.io/profile/
